@@ -1,0 +1,9 @@
+Experiences with Fortran 77
+
+Fortran was a very interesting language because it showed me how far programming
+languages have come.  It is very strict and the fact that I couldn't declare
+more variables after I initialized some was insane.  Overall the language was
+not that bad to understand.  It was just pretty tricky considering I had to
+start my statements at column 7 and there were no do whiles in Fortran 77.  Once
+I got the hang of that, it was pretty straight forward to work through the
+assignment.
